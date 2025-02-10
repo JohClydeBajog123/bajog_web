@@ -264,6 +264,22 @@ h6 {
   color: #fff;
   font-family: "Poppins", "Arial", "Helvetica Neue", sans-serif;
 }
+.btn-back {
+  background: linear-gradient(to right, #4B0000, #FF2AA3); /* Gradient color */
+  color: rgb(247, 0, 0);
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  transition: 0.3s;
+}
+
+.btn-back:hover {
+  opacity: 0.8;
+}
 
 .btn--radius {
   -webkit-border-radius: 3px;

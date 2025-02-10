@@ -12,6 +12,7 @@
       <nav class="auth-links">
         <a href="{{ route('login')}}" class="auth-btn">Log In</a>
         <a href="{{ route('register')}}" class="auth-btn">Sign Up</a>
+        
       </nav>
     </div>
   </header>
